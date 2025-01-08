@@ -23,5 +23,6 @@
   ```
   cp ./.tmux.conf $HOME
   ```
-  [!IMPORTANT]
-  It's necessary that after you do this, press Ctrl-a and then Shift-I to install all the necessary TPM plugins
+  >[!IMPORTANT]
+  >
+  >It's necessary that after you do this, press Ctrl-a and then Shift-I to install all the necessary TPM plugins
